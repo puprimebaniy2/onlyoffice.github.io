@@ -1,0 +1,20 @@
+{
+    "name": "Highlight666Plugin",
+    "guid": "asc.{53279A38-84F1-45A1-AE04-9F503E21E4FE}",
+    "baseUrl": "",
+    "variations": [
+        {
+            "description": "Automatically highlights cells with '666' in red.",
+            "url": "index.html",
+            "icons": ["icon.png"],
+            "isViewer": true,
+            "EditorsSupport": ["spreadsheet"],
+            "isVisual": false,
+            "isModal": false,
+            "isInsideMode": false,
+            "initDataType": "none",
+            "initData": "",
+            "buttons": []
+        }
+    ]
+}
